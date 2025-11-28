@@ -10,13 +10,14 @@ The goal is to build statistical and machine-learning models that can:
 
 ## 📁 Project Structure
 
-Statistics_DRP_2025/  
-│── stats_drp_project/  
-│   ├── Data/                     # Raw macroeconomic & labor datasets  
-│   ├── Visualizations/           # Exploratory Data Analysis (EDA) and Model Visualizations  
-│   └── stats_drp_project.ipynb              # Main notebooks for EDA and modeling  
-│  
-└── README.md                 # Project overview
+```
+Statistics_DRP_2025/
+├── stats_drp_project/
+│   ├── Data/                  # Raw macroeconomic & labor datasets
+│   ├── Visualizations/        # EDA and Model Visualizations
+│   └── stats_drp_project.ipynb   # Main notebook for EDA & modeling
+└── README.md                  # Project overview
+```
 
 ## 📈 Variables Used in This Project
 
