@@ -13,9 +13,10 @@ The goal is to build statistical and machine-learning models that can:
 ```
 Statistics_DRP_2025/
 ├── stats_drp_project/
-│   ├── Data/                  # Raw macroeconomic & labor datasets
+│   ├── Data/                  # Raw macroeconomic & labor datasetss
 │   ├── Visualizations/        # EDA and Model Visualizations
-│   └── stats_drp_project.ipynb   # Main notebook for EDA & modeling
+│   ├── stats_drp_project.ipynb   # Main notebook with Time Series considerations
+│   └── stats_drp_project_withoutTS.ipynb   # Main notebook without Time Series considerations
 └── README.md                  # Project overview
 ```
 
